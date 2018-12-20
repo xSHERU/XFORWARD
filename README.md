@@ -1,2 +1,2 @@
 # XFORWARD
-Gmail Add-On for forwarding emails using forwarding rules created by user.
+Gmail Add-On to forward emails using forwarding rules created by user.

@@ -1,0 +1,16 @@
+{
+    "timeZone": "Asia/Kolkata",
+    "dependencies": {},
+    "oauthScopes": ["https://www.googleapis.com/auth/gmail.addons.execute", "https://www.googleapis.com/auth/gmail.readonly", "https://www.googleapis.com/auth/script.storage", "https://mail.google.com/"],
+    "gmail": {
+        "name": "XFORWARD",
+        "logoUrl": "https://i.postimg.cc/W3KBG660/mail.png",
+        "contextualTriggers": [{
+            "unconditional": {},
+            "onTriggerFunction": "init"
+        }],
+        "primaryColor": "#2ECC71",
+        "secondaryColor": "#2ECC71",
+        "version": "TRUSTED_TESTER_V2"
+    }
+}
